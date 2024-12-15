@@ -3,6 +3,7 @@ WEB TEKNOLOJİLERİ ÖDEV
 HTML, CSS, Javascript, Bootstrap temelli ve responsive yapıda bir web sitesi.
 
 Konu: Türkiye
+Site = https://tanitimcountry.netlify.app/
 
 
 
